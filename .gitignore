@@ -93,6 +93,7 @@ nupkg/
 *.user
 *.userosscache
 *.sln.docstates
+movies.db*
 
 # Build results
 [Dd]ebug/
